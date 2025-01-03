@@ -7,6 +7,7 @@ A Streamlit-based web application that uses two AI agents against each other in 
 - AI vs AI Tic-Tac-Toe
 - Support for multiple LLM APIs such as OpenAI, Anthropic and Ollama (local)
 - Selection of different models
+- Display of model reasoning
 
 ## Requirements
 
@@ -48,4 +49,9 @@ Inspired by an X post and https://github.com/ivanfioravanti/ollama_tic_tac_toe_a
 
 The name "Shall we play a game?" comes from the old movie WarGames - https://www.youtube.com/watch?v=-1F7vaNP9w0
 
-## 
+## Improvements ToDo
+There are some improments to be made, such as:
+
+- Logging of the reasoning steps for researching the steps
+- Choice of which will player starts (for always X)
+- More OpenAI and Anthropic models in the selection (for now only 2 each).
