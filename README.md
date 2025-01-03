@@ -2,6 +2,8 @@
 
 A Streamlit-based web application that uses two AI agents against each other in a game of Tic-Tac-Toe.
 
+![Alt text](screenshot.png?raw=true "TicTacToe OpenAI, Anthropic and Ollama battle")
+
 ## Features
 
 - AI vs AI Tic-Tac-Toe
